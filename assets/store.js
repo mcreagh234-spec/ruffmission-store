@@ -353,7 +353,7 @@
   }
   async function boot() {
     try { CAT = await (await fetch('data/catalog.json', { cache: 'no-cache' })).json(); }
-    catch { document.body.insertAdjacentHTML('afterbegin', '<p style="padding:20px">Store data failed to load.</p>'); return; }
+    catch { document.body.classList.add('ready'); document.body.insertAdjacentHTML('afterbegin', '<p style="padding:20px">Store data failed to load.</p>'); return; }
     applyTheme();
     chrome();
     const pe = $('[data-product]');
@@ -375,6 +375,7 @@
       if (rc && /^https:\/\/[a-z0-9.-]*squareup(sandbox)?\.com\//i.test(rc)) $('.order-no')?.insertAdjacentHTML('beforeend', ` · <a href="${esc(rc)}" target="_blank" rel="noopener">View receipt</a>`);
     }
     renderCart();
+    document.body.classList.add('ready');
   }
   document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', boot) : boot();
 })();

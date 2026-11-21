@@ -398,3 +398,14 @@ input:focus,textarea:focus,select:focus{outline:2px solid var(--olive);outline-o
 @media(max-width:860px){.troops-social .track{grid-auto-columns:88%;gap:14px}}
 .ig-vid{max-width:300px;width:100%;border-radius:16px;overflow:hidden}
 .ig-vid video{width:100%;display:block;border-radius:16px}
+
+/* Prevent pre-hydration flash of placeholder section headings */
+body:not(.ready) [data-product],
+body:not(.ready) .feat-sec,
+body:not(.ready) [data-videos],
+body:not(.ready) [data-infographic],
+body:not(.ready) [data-cards],
+body:not(.ready) [data-reviews]{visibility:hidden}
+/* Fallback: if the script never runs, reveal after 3s so content is never stuck hidden */
+@keyframes rm-reveal{to{visibility:visible}}
+body:not(.ready) [data-product]{animation:rm-reveal 0s linear 3s forwards}
