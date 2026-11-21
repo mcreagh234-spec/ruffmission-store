@@ -1,0 +1,286 @@
+{
+  "store": {
+    "name": "RuffMission",
+    "currency": "USD",
+    "announcement": "Early Black Friday Sale!",
+    "support_email": "support@ruffmission.store",
+    "shipping": {
+      "label": "Standard Shipping (4–9 business days)",
+      "flat_fee_cents": 0,
+      "free_over_cents": 0
+    },
+    "socials": {
+      "tiktok": "",
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "videos": [],
+    "reviews": [
+      {
+        "author": "Jessica M.",
+        "stars": 5,
+        "title": "\"Absolutely Hilarious\"",
+        "text": "The second we put it on him, everyone started laughing. The little arms make it look even better when he walks around.",
+        "image": "images/testimonial-1.jpg"
+      },
+      {
+        "author": "Chris T.",
+        "stars": 5,
+        "title": "\"Even better in person\"",
+        "text": "I wasn't expecting him to look this funny in it🤣. It fit well and we've already had so many people asking where we got it.",
+        "image": "images/testimonial-2.jpg"
+      },
+      {
+        "author": "Amanda R.",
+        "stars": 5,
+        "title": "\"Best dog costume I've bought\"",
+        "text": "My dogs became the center of attention immediately. It's ridiculous in the best possible way and makes for some amazing videos.",
+        "image": "images/testimonial-3.jpg"
+      }
+    ],
+    "featured_video": null,
+    "reviews_title": "Approved by the troops",
+    "logo": "images/logo.png",
+    "shipping_options": [
+      {
+        "id": "standard",
+        "label": "Free Shipping",
+        "eta": "4–9 business days",
+        "price_cents": 0
+      },
+      {
+        "id": "express",
+        "label": "Express Shipping",
+        "eta": "1–2 business days",
+        "price_cents": 1995
+      }
+    ],
+    "rating": {
+      "value": 4.8,
+      "count": 321
+    },
+    "theme": {
+      "primary": "#464E1E",
+      "primary_dark": "#363c17",
+      "accent": "#c9a24b",
+      "font": "'Poppins',system-ui,sans-serif"
+    }
+  },
+  "products": [
+    {
+      "handle": "ruffmission-grenade",
+      "featured": true,
+      "title": "RuffMission Grenade Chew Toy",
+      "urgency": "HOT DROP · LIMITED STOCK",
+      "price_cents": 2999,
+      "compare_at_cents": 4999,
+      "images": [
+        "images/rm-1.jpg",
+        "images/rm-2.jpg",
+        "images/rm-3.jpg",
+        "images/rm-4.jpg"
+      ],
+      "highlights": [],
+      "trust": [
+        "🚚 Free shipping",
+        "🛡️ 90-day guarantee"
+      ],
+      "options": [],
+      "sold_out": [],
+      "rating": {
+        "value": 5.0,
+        "count": 3
+      },
+      "bundles": {
+        "headline": "Arm Your Squad",
+        "default": 0,
+        "tiers": [
+          {
+            "id": "solo",
+            "qty": 1,
+            "title": "1 Grenade",
+            "subtitle": "One Pup, One Mission",
+            "price_cents": 2999,
+            "compare_at_cents": 4999,
+            "gifts": []
+          },
+          {
+            "id": "two-pack",
+            "qty": 3,
+            "title": "2 Grenades + 1 FREE",
+            "chip": "Buy 2 Get 1 Free",
+            "subtitle": "Double The Mayhem · 3 Grenades Total",
+            "badge": "MOST POPULAR",
+            "price_cents": 5998,
+            "compare_at_cents": 14997,
+            "gifts": []
+          },
+          {
+            "id": "three-pack",
+            "qty": 5,
+            "title": "3 Grenades + 2 FREE",
+            "chip": "Buy 3 Get 2 Free",
+            "subtitle": "Triple The Mayhem · 5 Grenades Total",
+            "badge": "BEST VALUE",
+            "price_cents": 8997,
+            "compare_at_cents": 24995,
+            "gifts": []
+          }
+        ],
+        "addons": [],
+        "gifts": {}
+      },
+      "reviews": [
+        {
+          "text": "I was skeptical about ordering from here honestly, but my package showed up in about 2 weeks and the quality blew me away. Already told my brother to check it out.",
+          "author": "Jack R.",
+          "stars": 5
+        }
+      ],
+      "tabs": [
+        {
+          "heading": "How It Works",
+          "html": "<p>Pull the pin and the Grenade Chew Toy turns on. It then rolls around on its own, bouncing and changing direction, so your pup has a target to chase even when you're busy. The glowing ring makes it easy for them to track.</p><p>When the battery runs low, plug it in over USB-C and it's ready for the next mission.</p>"
+        },
+        {
+          "heading": "What You Get",
+          "html": "<p>1 × Grenade Chew Toy for each one you order, rechargeable over USB-C. Bundle deals include the free Grenade Chew Toys shown in your selected offer.</p>"
+        },
+        {
+          "heading": "Safety",
+          "html": "<p>The Grenade Chew Toy is made for <strong>supervised chasing and play</strong>. It is built for supervised chasing and play, not heavy destructive chewing. Check it regularly and take it away if it gets damaged.</p>"
+        },
+        {
+          "heading": "90-Day Money-Back Guarantee",
+          "html": "<p>Try RuffMission™ risk-free for 90 days. If you're not satisfied with your purchase, contact us within 90 days of delivery and we'll help you through the return process.</p>"
+        },
+        {
+          "heading": "Shipping Information",
+          "html": "<p>Orders are processed within <strong>1–3 business days</strong>. Estimated delivery is typically <strong>4–9 business days after processing</strong>, depending on your location. Tracking information will be provided once your order ships.</p>"
+        },
+        {
+          "heading": "Returns & Damages",
+          "html": "<p>We accept eligible returns within <strong>90 days of delivery</strong>. Items should be returned in their original condition and packaging. Return shipping costs are the customer's responsibility unless the item arrived damaged or incorrect.</p><p>If your order arrives <strong>damaged, defective, or incorrect</strong>, contact us as soon as possible with photos of the item and packaging and we'll make it right.</p>"
+        }
+      ],
+      "description_html": "<p>Meet the Grenade Chew Toy: the self-rolling grenade that plays back. 💣</p><p>Pull the pin and it switches on. Then it rolls around on its own, bouncing and changing direction so your dog always has a new target to chase. A glowing ring keeps their attention locked on the mission, and when the battery runs low you just plug it in with USB-C and it's ready for the next round.</p><p>💣 Pull the pin to turn it on<br>🎯 Rolls around and bounces by itself<br>🔋 USB-C rechargeable, no batteries needed<br>💧 Rinse it off under water after the mission</p><p><strong>Built for supervised play, not heavy chewing.</strong> Pick it up when the mission is over.</p>",
+      "page": {
+        "feature_title": "The Grenade That Plays Back",
+        "feature_lead": "Pull the pin and it turns on, then rolls around and bounces on its own, so your pup always has a mission.",
+        "featured_video": null,
+        "videos_title": "Mission Footage",
+        "videos": [
+          {
+            "src": "videos/rolly-clip-1.mp4",
+            "poster": "images/rolly-clip-1-poster.jpg"
+          },
+          {
+            "src": "videos/rolly-clip-2.mp4",
+            "poster": "images/rolly-clip-2-poster.jpg"
+          },
+          {
+            "src": "videos/rolly-clip-3.mp4",
+            "poster": "images/rolly-clip-3-poster.jpg"
+          }
+        ],
+        "infographic": {
+          "title": "Why Pups Love the Grenade Chew Toy",
+          "image": "images/infographic-pull-poster.jpg",
+          "features": [
+            {
+              "icon": "💣",
+              "title": "Pull the Pin, It Rolls",
+              "text": "Turns on, then rolls & bounces on its own"
+            },
+            {
+              "icon": "🔒",
+              "title": "Easy Off",
+              "text": "Put the pin back in to turn it off"
+            },
+            {
+              "icon": "🔋",
+              "title": "USB-C Rechargeable",
+              "text": "Recharge and redeploy, no batteries"
+            },
+            {
+              "icon": "💧",
+              "title": "Easy to Clean",
+              "text": "Just rinse it off after the mission"
+            }
+          ],
+          "video": "videos/infographic-pull.mp4"
+        },
+        "reviews_title": "Customer testimonials",
+        "reviews": [
+          {
+            "author": "Jessica R.",
+            "stars": 5,
+            "text": "My border collie destroys EVERYTHING and gets bored so fast, so I’m always looking for toys that actually keep him engaged. We got the RuffMission Grenade Toy and I honestly didn’t expect him to love it this much. The fact that it moves on its own is what makes it different — he goes crazy chasing it around the house. The unpredictable movement keeps him locked in, and the interactive design makes it way more exciting than a regular chew toy. He’s completely obsessed. 😂",
+            "image": "images/rolly-review-1.jpg",
+            "avatar": "images/rolly-avatar-1.jpg"
+          },
+          {
+            "author": "Sarah M.",
+            "stars": 5,
+            "text": "High-energy dog + working from home = total chaos. This interactive grenade toy has honestly been a lifesaver. My dog loves that it moves by itself, so he can stay busy chasing, pouncing, and playing with it without me constantly having to entertain him. It keeps him engaged way longer than normal toys, and he never seems to get bored because it’s always doing something. Such a fun idea, and the tactical design makes it even better. 🪦🐾",
+            "image": "images/rolly-review-2.jpg",
+            "avatar": "images/rolly-avatar-2.jpg"
+          },
+          {
+            "author": "Luna R.",
+            "stars": 5,
+            "text": "We’ve tried so many dog toys and most of them get ignored after a day or two. The RuffMission Grenade Toy is different because it’s actually interactive and moves on its own, which instantly grabs my dog’s attention. My German Shepherd loves chasing it when it starts rolling around, and then he’ll grab it and carry it off like he won a prize. 😂 It’s one of the few toys that keeps him entertained without me having to do much. Definitely one of our best pet purchases.",
+            "image": "images/rolly-review-3.jpg",
+            "avatar": "images/rolly-avatar-3.jpg"
+          }
+        ],
+        "faq": [
+          {
+            "q": "How does the Grenade Chew Toy work?",
+            "a": "Pull the pin and it turns on. It then rolls around and bounces on its own, changing direction by itself, so your dog has something unpredictable to chase."
+          },
+          {
+            "q": "How do I charge it?",
+            "a": "Plug it into any USB-C charger. No batteries to buy."
+          },
+          {
+            "q": "Is it safe for strong chewers?",
+            "a": "It's built for supervised chasing, carrying and play, not heavy destructive chewing. Take it away if it gets damaged."
+          },
+          {
+            "q": "Can I wash it?",
+            "a": "Yes. When the mission gets messy, rinse it under water and let it dry before charging."
+          },
+          {
+            "q": "What if mine arrives damaged?",
+            "a": "Contact us with photos of the item and packaging, and we'll help arrange an eligible replacement or refund."
+          }
+        ],
+        "reviews_style": "social"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "How does the Grenade work?",
+      "a": "Pull the pin and it turns on, then rolls and bounces around on its own so your pup always has something to chase."
+    },
+    {
+      "q": "How do I charge it?",
+      "a": "Plug it into any USB-C charger. No batteries to buy."
+    },
+    {
+      "q": "Is it safe for strong chewers?",
+      "a": "It's built for supervised chasing, carrying and play, not heavy destructive chewing. Take it away if it gets damaged."
+    },
+    {
+      "q": "Does it work for cats too?",
+      "a": "Yes — cats love chasing it just as much as dogs do."
+    },
+    {
+      "q": "What if mine arrives damaged?",
+      "a": "Contact us with photos of the item and packaging and we'll arrange an eligible replacement or refund."
+    }
+  ]
+}
