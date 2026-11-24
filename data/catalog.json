@@ -73,7 +73,7 @@
       "featured": true,
       "title": "RuffMission Grenade Chew Toy",
       "urgency": "HOT DROP · LIMITED STOCK",
-      "price_cents": 3599,
+      "price_cents": 2999,
       "compare_at_cents": 4999,
       "images": [
         "images/ruff-1.jpg",
@@ -101,7 +101,7 @@
             "qty": 1,
             "title": "1 Grenade",
             "subtitle": "One Pup, One Mission",
-            "price_cents": 3599,
+            "price_cents": 2999,
             "compare_at_cents": 4999,
             "gifts": []
           },
@@ -112,7 +112,7 @@
             "chip": "Buy 2 Get 1 Free",
             "subtitle": "Double The Mayhem · 3 Grenades Total",
             "badge": "MOST POPULAR",
-            "price_cents": 7198,
+            "price_cents": 5998,
             "compare_at_cents": 14997,
             "gifts": []
           },
@@ -123,7 +123,7 @@
             "chip": "Buy 3 Get 2 Free",
             "subtitle": "Triple The Mayhem · 5 Grenades Total",
             "badge": "BEST VALUE",
-            "price_cents": 10797,
+            "price_cents": 8997,
             "compare_at_cents": 24995,
             "gifts": []
           }
